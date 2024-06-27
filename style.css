@@ -160,7 +160,7 @@ nav ul li a:hover::after{
     padding: 0 40px;
     text-align: center;
     font-size: 10px;
-    transition: height 0.5s;
+    transition: height 1s;
 }
 .layer h3{
     font-weight: 500;

@@ -19,9 +19,6 @@ body{
     background-size: cover;
     background-position:center;
 }
-.container {
-    
-}
 nav img{
     margin-right: 10px;
     margin-top: 10px;
@@ -209,5 +206,4 @@ nav ul li a:hover::after{
     padding: 25px 0;
     background: #333;
     font-weight: 300;
-    margin-bottom: 30px;
 }
